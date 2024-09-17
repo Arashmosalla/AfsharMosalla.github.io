@@ -1,6 +1,6 @@
 # Afshar Mosallanejad's Personal Website
 
-Welcome to the GitHub repository of my personal website! This website is a comprehensive portfolio showcasing my skills, projects, and academic background in Water Resources Engineering and Data Science.
+Welcome to the GitHub repository of my personal website! This website is a comprehensive portfolio showcasing my skills, projects, and academic background in Transportation Engineering and Data Science.
 
 ## Overview
 
@@ -24,11 +24,3 @@ The website is designed using HTML5, CSS3, and JavaScript.
 - HTML5 & CSS3
 - JavaScript
 
-## Setup
-
-To clone and run this website locally:
-
-```bash
-git clone https://github.com/ashkanmosalla/Personal-website
-cd Personal-website
-# open index.html in a web browser
