@@ -1,4 +1,4 @@
-# Ashkan Mosallanejad's Personal Website
+# Afshar Mosallanejad's Personal Website
 
 Welcome to the GitHub repository of my personal website! This website is a comprehensive portfolio showcasing my skills, projects, and academic background in Water Resources Engineering and Data Science.
 
